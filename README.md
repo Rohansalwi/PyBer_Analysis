@@ -11,4 +11,4 @@ As per the summary the number of drivers in rural area are the lowest forming on
 To address this descrepency, following measures can be taken.
 1. Encourage more drivers to join PyBer in rural and suburban areas by introducing lucrative schemes.
 2. Special fares for customers in rural and suburban city types to encourage them to choose PyBer over other ride sharing services. This will increase the rides and finally the revenue.
-3. Introduce more interconnecting city rides for customers to choose from
+3. Introduce more interconnecting city rides for customers to choose from.
