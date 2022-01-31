@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer Analysis
 
 ## Overview of the Analysis
 This project is to analyze data for budget spent on the students from 15 different schools on the scores of Math and Reading from grades 9th to 12th.
